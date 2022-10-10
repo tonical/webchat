@@ -1,0 +1,15 @@
+{
+  "name": "webchat",
+  "version": "0.1.0",
+  "description": "Webchat utilizando socketIo",
+  "main": "app.js",
+  "scripts": {
+    "start": "app.js"
+  },
+  "author": "Antonio Almeida",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.1.1"
+  }
+}
