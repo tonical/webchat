@@ -19,6 +19,6 @@ io.on('connection', function(socket){
 
 // inicia o servidor na porta informada, no caso vamo iniciar na porta 3030
 http.listen(3030, function(){
-  console.log('Servidor rodando em: http://www.alm.pro.br:3030');
+  console.log('Servidor rodando em: http://localhost:3030');
 });
 
